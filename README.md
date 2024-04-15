@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafalzbanski&label=Profile%20views&color=0e75b6&style=flat" alt="rafalzbanski" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning -> **Spring Boot**
 
-- 📫 How to reach me **rafalzbanski@gmail.com**
+- 📫 How to reach me -> **rafalzbanski@gmail.com**
 
-- ⚡ Fun fact **stock market investment enthusiast**
+- ⚡ Fun fact -> **stock market investment enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
